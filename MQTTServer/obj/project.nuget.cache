@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pu474l8kNOMEHVb+56PDO3GgGzRdWy7IF8dKYf0zJblUoFRkBRoAK3zcmjYdBdCy0N/SaQ9fO/l4n8d0EvVo8A==",
+  "success": true,
+  "projectFilePath": "D:\\Development\\GSE Dev\\GSEProjects\\MQTTExperiment\\MQTTServer\\MQTTServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dsrde\\.nuget\\packages\\mqttnet\\3.1.2\\mqttnet.3.1.2.nupkg.sha512",
+    "C:\\Users\\dsrde\\.nuget\\packages\\serilog\\2.11.0\\serilog.2.11.0.nupkg.sha512",
+    "C:\\Users\\dsrde\\.nuget\\packages\\serilog.sinks.console\\4.0.2-dev-00890\\serilog.sinks.console.4.0.2-dev-00890.nupkg.sha512",
+    "C:\\Users\\dsrde\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

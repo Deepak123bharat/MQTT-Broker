@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "IUjSP0ePgHLy4MDYBYz5TQq4bcvHRAjSaSlXO5/HMCAI6skeFyALOO4nwiV7RlsfzLpe8+Y1v0GU6iT2yUXSMg==",
+  "success": true,
+  "projectFilePath": "D:\\Development\\GSE Dev\\GSEProjects\\MQTTExperiment\\MQTT\\MQTTPublisher\\MQTTPublisher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dsrde\\.nuget\\packages\\mqttnet\\3.1.2\\mqttnet.3.1.2.nupkg.sha512",
+    "C:\\Users\\dsrde\\.nuget\\packages\\serilog\\2.11.0\\serilog.2.11.0.nupkg.sha512",
+    "C:\\Users\\dsrde\\.nuget\\packages\\serilog.sinks.console\\4.0.2-dev-00890\\serilog.sinks.console.4.0.2-dev-00890.nupkg.sha512"
+  ],
+  "logs": []
+}

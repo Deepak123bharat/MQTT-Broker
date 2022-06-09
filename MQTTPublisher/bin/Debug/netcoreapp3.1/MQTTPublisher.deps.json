@@ -1,0 +1,76 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MQTTPublisher/1.0.0": {
+        "dependencies": {
+          "MQTTnet": "3.1.2",
+          "Serilog": "2.11.0",
+          "Serilog.Sinks.Console": "4.0.2-dev-00890"
+        },
+        "runtime": {
+          "MQTTPublisher.dll": {}
+        }
+      },
+      "MQTTnet/3.1.2": {
+        "runtime": {
+          "lib/netcoreapp3.1/MQTTnet.dll": {
+            "assemblyVersion": "3.1.2.0",
+            "fileVersion": "3.1.2.0"
+          }
+        }
+      },
+      "Serilog/2.11.0": {
+        "runtime": {
+          "lib/netstandard2.1/Serilog.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.11.0.0"
+          }
+        }
+      },
+      "Serilog.Sinks.Console/4.0.2-dev-00890": {
+        "dependencies": {
+          "Serilog": "2.11.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Serilog.Sinks.Console.dll": {
+            "assemblyVersion": "4.0.2.0",
+            "fileVersion": "4.0.2.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MQTTPublisher/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MQTTnet/3.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-074AmNXQSs6S3vKyWqYIVvVCeyydCYhOLqfTfRXTaOihQTLAeKRnZh8c3Xhsvct4Rn+tCORFpUdLE35lH4c5Aw==",
+      "path": "mqttnet/3.1.2",
+      "hashPath": "mqttnet.3.1.2.nupkg.sha512"
+    },
+    "Serilog/2.11.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ysv+hBzTul6Dp+Hvm10FlhJO3yMQcFKSAleus+LpiIzvNstpeV4Z7gGuIZ1OPNfIMulSHOjmLuGAEDKzpnV8ZQ==",
+      "path": "serilog/2.11.0",
+      "hashPath": "serilog.2.11.0.nupkg.sha512"
+    },
+    "Serilog.Sinks.Console/4.0.2-dev-00890": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5l0OWV0dk0fAzascJUY0tWrAPqrleSs2uhZzW2y9iYXFYtEfMBPTi1+UHPO6Pa76Z4ZG06s2mpGfjAdPSpIxNw==",
+      "path": "serilog.sinks.console/4.0.2-dev-00890",
+      "hashPath": "serilog.sinks.console.4.0.2-dev-00890.nupkg.sha512"
+    }
+  }
+}
