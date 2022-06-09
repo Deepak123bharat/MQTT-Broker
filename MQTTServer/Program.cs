@@ -43,6 +43,9 @@ namespace MQTTServer
             }
             Log.Logger.Information("Press Enter to exit.");
 
+            while(true)
+            {
+            }
             //Console.ReadLine();
 
             // Stop the server after reading any key in terminal
