@@ -43,10 +43,10 @@ namespace MQTTServer
             }
             Log.Logger.Information("Press Enter to exit.");
 
-            Console.ReadLine();
+            //Console.ReadLine();
 
             // Stop the server after reading any key in terminal
-            await server.StopAsync();
+            //await server.StopAsync();
         }
     }
 }
